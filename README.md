@@ -1,5 +1,5 @@
 # arduino-processing
-Sketches to use to make an Arduino and Processing talk to eachother over the serial port.  the "portAvailability" sketch simply lists in the Processing terminal which ports are being used.  In my case it was always the third port, port 2 because the list begins at 0.
+Sketches make Arduino and Processing talk to eachother over the serial port.  the "portAvailability" sketch simply lists in the Processing terminal which ports are being used.  In my case it was always the third port, port 2 because the list begins at 0.
 
 The second sketch - "serialSensoReflection" is a riff on Simon Greenwold's "Reflection" example in the Processing "Examples" menu:
 
